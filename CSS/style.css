@@ -1,0 +1,74 @@
+/* h1{
+    background-color: chartreuse;  
+} */
+
+/* .指的是class */
+
+.header-color {
+    background-color: chartreuse;
+}
+
+.header-color1 {
+    background-color: brown;
+}
+
+.nav {
+    display: flex;
+}
+
+.nav-list {
+    list-style: none;
+    margin-right: 10px;
+}
+
+.contain {
+    padding: 8% 3%;
+
+}
+
+h1 {
+    display: inline-block;
+
+}
+
+h1 {
+    color: beige;
+    /* border: 10px dotted rgb(0, 174, 255); */
+}
+
+h3 {
+    color: rgb(35, 35, 150);
+}
+
+header {
+    background-color: #4794cf
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #d4065d;
+    color: white;
+}
+
+footer {
+    background-color: #4794cf
+    height: 70px;
+}
